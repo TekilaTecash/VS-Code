@@ -3,11 +3,11 @@
 A collaborative guide by [Tekila,Lakeisha,Juma,Nicole].
 
 ## Table of Contents
-- #Introduction
-- Graphic-designer
-- Software-engineer
-- Data-science
-- Geographic-information-system
+- [Introduction](#introduction)
+- [Graphic-designer](#Graphic-designer) 
+- [Software-engineer](#Software-engineer)
+- [Data-science](#Data-science)
+- [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
 This guide covers tools that every student should know about.
