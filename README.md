@@ -1,27 +1,28 @@
-# Data scientists
+# Useful Tools for Students
 
-A collaborative guide by[Juma.Lekisha.Nicole.Tekila].
+A collaborative guide by [Tekila,Lakeisha,Juma,Nicole].
 
 ## Table of Contents
-- [Introduction](#communication and management)
-- [VS Code](#vs-code)
-- [Notion](#notion)
-- [Canva](#canva)
+- [Introduction](#introduction)
+- [VS Code](#Graphic-designer)
+- [Notion](#Software-engineer)
+- [Canva](#Data-science)
+-  [Canva](#Geographic-information-system)
 
 ## Introduction
-Data management and analysis
+This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## VS Code
+## Graphic designer
 <!-- [Tekila] will write this section -->
 
-## Notion
-<!-- [Lakeysha] will write this section -->
+## Software engineer
+<!-- [Lakeisha] will write this section -->
 
-## Canva
+## Data science
 <!-- [Juma] will write this section -->
 
-## Jasper
-<!--[Nikol] will write this section-->
+## Geographic information system
+<!-- [Nicole] will write this section -->
 
 "Set up project structure"
