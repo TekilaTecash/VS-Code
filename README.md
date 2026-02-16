@@ -1,15 +1,15 @@
-# Useful Tools for Students
+# Data scientists
 
-A collaborative guide by [list all team member names].
+A collaborative guide by[Juma.Lekisha.Nicole.Tekila].
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#communication and management)
 - [VS Code](#vs-code)
 - [Notion](#notion)
 - [Canva](#canva)
 
 ## Introduction
-This guide covers tools that every student should know about.
+Data management and analysis
 Each section is written by a different team member.
 
 ## VS Code
