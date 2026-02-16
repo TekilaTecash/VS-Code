@@ -3,7 +3,7 @@
 A collaborative guide by [Tekila,Lakeisha,Juma,Nicole].
 
 ## Table of Contents
-- [#Introduction]
+- #Introduction
 - Graphic-designer
 - Software-engineer
 - Data-science
