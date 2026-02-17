@@ -40,7 +40,27 @@ Each section is written by a different team member.
 ## Data scientist
 <!-- [Juma] will write this section -->
 
-## Geographic information system
-<!-- [Nicole] will write this section -->
+## GIS & Geoinformatics Specialist
+**Role Overview:**  
+A GIS (Geographic Information Systems) & Geoinformatics Specialist uses technology to collect, analyze, and visualize spatial and geographic data. They play a key role in environmental monitoring, urban planning, natural resource management, and disaster response.  
+
+**Key Responsibilities:**  
+- Collect and process geospatial data from satellites, drones, and field surveys.  
+- Create maps, models, and dashboards to visualize trends and patterns.  
+- Support decision-making for environmental management, urban planning, and infrastructure projects.  
+- Collaborate with scientists, engineers, and policymakers to apply geospatial insights effectively.  
+
+**Skills Needed:**  
+- Proficiency in GIS software (ArcGIS, QGIS) and geospatial analysis tools.  
+- Knowledge of remote sensing, GPS, and spatial data management.  
+- Basic programming for data processing (Python, R, or SQL).  
+- Analytical thinking and attention to detail.  
+
+**Career Outlook:**  
+GIS & Geoinformatics Specialists are increasingly in demand in government agencies, NGOs, environmental consultancies, and tech companies focusing on smart cities or climate solutions.  
+
+**Useful Links:**  
+- [QGIS Official Site](https://qgis.org)  
+- [Esri GIS Resources](https://www.esri.com/en-us/home)
 
 "Set up project structure"
