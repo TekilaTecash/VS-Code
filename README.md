@@ -1,4 +1,4 @@
-# Useful Tools for Students
+# Career Path In Tech
 
 A collaborative guide by [Tekila,Lakeisha,Juma,Nicole].
   
@@ -17,7 +17,7 @@ Each section is written by a different team member.
 **Graphic-design** is the art, profession, and practice of creating visual content 
    to communicate messages, ideas, and information effectively
 
-### Why Students Should Study It
+### Why Students Should Study Students
 - To Be Able Builds Brand Identity & Trust.
 - To Boosts Employability & Freelancing.
 - To Be Able To Develop Problem-Solving Skills.
