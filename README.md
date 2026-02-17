@@ -6,7 +6,7 @@ A collaborative guide by [Tekila,Lakeisha,Juma,Nicole].
 - [Introduction](#introduction)
 - [Graphic-designer](#Graphic-designer)
 - [Software-engineer](#Software-engineer)
-- [Data-science](#Data-science)
+- [Data-scientist](#Data-scientist)
 - [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
@@ -37,7 +37,7 @@ Each section is written by a different team member.
 ## Software engineer
 <!-- [Lakeisha] will write this section -->
 
-## Data science
+## Data scientist
 <!-- [Juma] will write this section -->
 
 ## Geographic information system
