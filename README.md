@@ -10,8 +10,7 @@ A collaborative guide by [Tekila,Lakeisha,Juma,Nicole].
 - [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
-This guide covers tools that every student should know about.
-Each section is written by a different team member.
+Technology offers many exciting career paths, from building software and websites to analyzing data and securing digital systems. Companies like Google and Microsoft show how tech is used to solve real-world problems. With strong demand, flexible work options, and opportunities for growth, a career in tech is ideal for anyone who enjoys learning, creativity, and innovation.
 
 ## Graphic designer
 **Graphic-design** is the art, profession, and practice of creating visual content 
