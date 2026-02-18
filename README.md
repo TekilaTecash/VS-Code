@@ -7,6 +7,7 @@ A collaborative guide by [Tekila,Lakeisha,Juma,Nicole].
 - [Graphic-designer](#Graphic-designer)
 - [Software-engineer](#Software-engineer)
 - [Data-scientist](#Data-scientist)
+- [Web-develiper](#Web-develiper)
 - [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
@@ -34,7 +35,6 @@ Technology offers many exciting career paths, from building software and website
 - [Graphic-design Tips and Tricks](https://docGraphic-designs//getstarted/tips-and-tricks)
 
 ## Software engineer
-
 **Software Engineering** is the systematic application of engineering approaches to the development of software.  
 It involves designing, building, testing, and maintaining software in a structured way.
 
@@ -54,7 +54,7 @@ It involves designing, building, testing, and maintaining software in a structur
 - [Software Engineering Overview](https://en.wikipedia.org/wiki/Software_engineering)
 - [FreeCodeCamp Software Engineering Resources](https://www.freecodecamp.org/news/tag/software-engineering/)akeisha] will write this section -->
 
-## Data scientist
+## Data science
 A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
 
 ### Why should student study it
@@ -62,17 +62,18 @@ A data scientist is a professional who uses data to understand and explain pheno
 -Data Analysis: Using statistical methods and algorithms, data scientists analyze data to identify trends, patterns, and insights.
 -Model Development: They create predictive models and algorithms to forecast outcomes and support decision-making processes.
 -Data Visualization: Data scientists present their findings through visualizations
-## skills required
+###skills required
 Comminication proffesionalism
 Self etic moderation
 cofidence
 
-
-### link [https://www.coursera.org>articles>what-is-a-data-scientist]!-- [Juma] 
+ ###Useful Links: 
+  [https://www.coursera.org>articles>what-is-a-data-scientist] 
 
 ## GIS & Geoinformatics Specialist
 **Role Overview:**  
-A GIS (Geographic Information Systems) & Geoinformatics Specialist uses technology to collect, analyze, and visualize spatial and geographic data. They play a key role in environmental monitoring, urban planning, natural resource management, and disaster response.  
+A GIS (Geographic Information Systems) & Geoinformatics Specialist uses technology to collect, analyze, and visualize spatial and geographic data.
+They play a key role in environmental monitoring, urban planning, natural resource management, and disaster response.  
 
 **Key Responsibilities:**  
 - Collect and process geospatial data from satellites, drones, and field surveys.  
@@ -87,10 +88,13 @@ A GIS (Geographic Information Systems) & Geoinformatics Specialist uses technolo
 - Analytical thinking and attention to detail.  
 
 **Career Outlook:**  
-GIS & Geoinformatics Specialists are increasingly in demand in government agencies, NGOs, environmental consultancies, and tech companies focusing on smart cities or climate solutions.  
+GIS & Geoinformatics Specialists are increasingly in demand in government agencies, NGOs, environmental consultancies,
+and tech companies focusing on smart cities or climate solutions.  
 
 **Useful Links:**  
 - [QGIS Official Site](https://qgis.org)  
 - [Esri GIS Resources](https://www.esri.com/en-us/home)
+
+##Web Developer
 
 "Set up project structure"
