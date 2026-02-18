@@ -55,7 +55,20 @@ It involves designing, building, testing, and maintaining software in a structur
 - [FreeCodeCamp Software Engineering Resources](https://www.freecodecamp.org/news/tag/software-engineering/)akeisha] will write this section -->
 
 ## Data scientist
-<!-- [Juma] will write this section -->
+A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
+
+### Why should student study it
+-Data Collection and Cleaning: They gather data from various sources and clean it to ensure accuracy and usability.
+-Data Analysis: Using statistical methods and algorithms, data scientists analyze data to identify trends, patterns, and insights.
+-Model Development: They create predictive models and algorithms to forecast outcomes and support decision-making processes.
+-Data Visualization: Data scientists present their findings through visualizations
+## skills required
+Comminication proffesionalism
+Self etic moderation
+cofidence
+
+
+### link [https://www.coursera.org>articles>what-is-a-data-scientist]!-- [Juma] 
 
 ## GIS & Geoinformatics Specialist
 **Role Overview:**  
