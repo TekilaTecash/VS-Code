@@ -95,6 +95,28 @@ and tech companies focusing on smart cities or climate solutions.
 - [QGIS Official Site](https://qgis.org)  
 - [Esri GIS Resources](https://www.esri.com/en-us/home)
 
-##Web Developer
+## Web Developer
 
-"Set up project structure"
+A **Web Developer** designs and builds websites and web applications using technologies such as HTML, CSS, and JavaScript.
+
+### Why Students Should Learn Web Development
+- High demand career worldwide
+- Enables freelancing and remote work
+- Helps build real-world projects quickly
+- Encourages creativity and problem-solving
+
+### Skills Required
+- HTML, CSS, JavaScript
+- Git and GitHub
+- Responsive design
+- Basic frontend frameworks
+
+### How to Get Started
+1. Learn HTML and CSS basics.
+2. Practice JavaScript.
+3. Build small projects like portfolios.
+4. Upload projects to GitHub.
+
+### Useful Links
+- https://developer.mozilla.org/
+- https://www.freecodecamp.org/
