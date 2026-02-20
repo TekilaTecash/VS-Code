@@ -52,7 +52,7 @@ It involves designing, building, testing, and maintaining software in a structur
 
 ### Useful Links
 - [Software Engineering Overview](https://en.wikipedia.org/wiki/Software_engineering)
-- [FreeCodeCamp Software Engineering Resources](https://www.freecodecamp.org/news/tag/software-engineering/)akeisha] will write this section
+- [FreeCodeCamp Software Engineering Resources](https://www.freecodecamp.org/news/tag/software-engineering/)
 
 ## Data science
 A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
