@@ -11,7 +11,9 @@ A collaborative guide by [Tekila,Lakeisha,Juma,Nicole,Nicholas].
 - [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
-Technology offers many exciting career paths, from building software and websites to analyzing data and securing digital systems. Companies like Google and Microsoft show how tech is used to solve real-world problems. With strong demand, flexible work options, and opportunities for growth, a career in tech is ideal for anyone who enjoys learning and creativity. 
+
+Technology provides a wide range of exciting career opportunities, including software development, website creation, data analysis, and cybersecurity. Companies like Google and Microsoft show how tech is used to solve real-world problems. With strong demand, flexible work options, and opportunities for growth, a career in tech is ideal for anyone who enjoys learning, creativity, and innovation.
+
 
 ## Graphic designer
 **Graphic-design** is the art, profession, and practice of creating visual content 
@@ -52,9 +54,9 @@ It involves designing, building, testing, and maintaining software in a structur
 
 ### Useful Links
 - [Software Engineering Overview](https://en.wikipedia.org/wiki/Software_engineering)
-- [FreeCodeCamp Software Engineering Resources](https://www.freecodecamp.org/news/tag/software-engineering/)akeisha] will write this section
+- [FreeCodeCamp Software Engineering Resources](https://www.freecodecamp.org/news/tag/software-engineering/)
 
-## Data science
+## Data scientist
 A data scientist is a professional who uses data to understand and explain phenomena, helping organizations make better decisions. They combine skills from various domains such as programming, statistics, and domain knowledge to extract valuable insights from large datasets
 
 ### Why should student study it
