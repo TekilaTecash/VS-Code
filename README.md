@@ -11,7 +11,9 @@ A collaborative guide by [Tekila,Lakeisha,Juma,Nicole,Nicholas].
 - [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
+
 Technology provides a wide range of exciting career opportunities, including software development, website creation, data analysis, and cybersecurity. Companies like Google and Microsoft show how tech is used to solve real-world problems. With strong demand, flexible work options, and opportunities for growth, a career in tech is ideal for anyone who enjoys learning, creativity, and innovation.
+
 
 ## Graphic designer
 **Graphic-design** is the art, profession, and practice of creating visual content 
