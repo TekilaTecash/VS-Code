@@ -7,7 +7,7 @@ A collaborative guide by [Tekila,Lakeisha,Juma,Nicole,Nicholas].
 - [Graphic-designer](#Graphic-designer)
 - [Software-engineer](#Software-engineer)
 - [Data-scientist](#Data-scientist)
-- [Web-develiper](#Web-develiper)
+- [Web-developer](#Web-developer)
 - [Geographic-information-system](#Geographic-information-system)
 
 ## Introduction
