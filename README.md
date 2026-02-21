@@ -98,6 +98,10 @@ and tech companies focusing on smart cities or climate solutions.
 ## Web Developer
 
 A **Web Developer** designs and builds websites and web applications using technologies such as HTML, CSS, and JavaScript.
+### Types of Web Developers
+- **Frontend Developer** - works on visual part of the website
+- **Backend Developer** - works on servers, database and application logic.
+- **Full Stack Developer** - works on both frontend and backend
 
 ### Why Students Should Learn Web Development
 - High demand career worldwide
@@ -117,6 +121,14 @@ A **Web Developer** designs and builds websites and web applications using techn
 3. Build small projects like portfolios.
 4. Upload projects to GitHub.
 
+### Career Opportunities
+- Frontend Developer
+- Backend Developer
+- Full Stack Developer
+- Web Designer
+- Freelance Web Developer
+
 ### Useful Links
-- https://developer.mozilla.org/
-- https://www.freecodecamp.org/
+- https://developer.mozilla.org
+- https://www.freecodecamp.org
+- https://www.w3schools.com
